@@ -1,0 +1,5 @@
+name: MultiChecker
+version: 0.1-SNAPSHOT
+main: net.ghostrealms.multichecker.MultiChecker
+author: Ghost Realms Network
+authors: [Rmarmorstein]
